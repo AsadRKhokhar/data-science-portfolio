@@ -5,7 +5,7 @@ Hi, I'm **Asad Khokhar**, a data scientist with interests in **time series forec
 This portfolio showcases:
 
 - Personal data science projects  
-- Selected anonymized projects from my professional work  
+- Selected anonymised projects from my professional work  
 
 Each project includes:
 
